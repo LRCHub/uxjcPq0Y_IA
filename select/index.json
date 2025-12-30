@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バズビバザヴ",
+  "base_artist": "常闇トワ",
+  "createdAt": "2025-12-30T13:51:38.545474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バズビバザヴ",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_バズビバザヴ_常闇トワ.txt"
+    }
+  ]
+}
